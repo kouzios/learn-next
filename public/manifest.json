@@ -1,0 +1,16 @@
+{
+    "short_name": "Sample App",
+    "name": "A sample Next.js app",
+    "description": "A sample Next.Js app for use in learning",
+    "icons": [
+      {
+        "src": "favicon.ico",
+        "sizes": "96x96 32x32 16x16",
+        "type": "image/x-icon"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
